@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @e-xnlim
+- 👀 I’m interested in all things data analytics and data science
+- 🌱 I’m currently learning and getting hands on experience as a full time data analyst
